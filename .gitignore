@@ -1,0 +1,5 @@
+# Dependabot examples repo
+.DS_Store
+.idea/
+.vscode/
+*.swp
